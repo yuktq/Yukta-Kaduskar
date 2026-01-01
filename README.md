@@ -1,6 +1,6 @@
 # Yukta-Kaduskar
 
-# About Me
+### About Me
 🌸 Beginner UI/UX Designer with a creative mindset  
 🎓 AI & Data Science student  
 ✨ I enjoy turning ideas into clean, user-friendly designs  
