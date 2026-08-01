@@ -1,4 +1,4 @@
-# Hi there, I'm Yukta Kaduskar 👋
+# Hello, I'm Yukta Kaduskar 👋
 
 ## 🧠 About Me
 
