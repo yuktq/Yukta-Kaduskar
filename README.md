@@ -1,32 +1,57 @@
-# Yukta-Kaduskar
+# Hi there, I'm Yukta Kaduskar 👋
 
-### 🎓 About Me
-- Creative learner with interest in UI/UX design & Web Development  
-- AI & Data Science student  
-- I enjoy turning ideas into clean, user-friendly designs  
+## 🧠 About Me
 
-### 🎨 What I Love Designing
-- Mobile App Interfaces
-- Website Layouts
-- UI Screens & Components
+* 🎓 Artificial Intelligence & Data Science student
+* 💻 Software Developer passionate about building intelligent and user-friendly applications
+* 🌐 Developer with experience in React, Node.js, Express, and MongoDB
+* 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
+* 🎨 Interested in UI/UX design, modern web experiences, and clean interfaces
+* 🚀 Always learning new technologies and solving real-world problems through software
 
-### 🛠 Tools I Use
-- Figma
-- Canva
-- Basic HTML/CSS
-- Pen & Paper (for ideas)
+## 🛠️ Skills & Technologies
 
-### 📌 Currently Learning
-- UI/UX fundamentals
-- Responsive web design
-- User research basics
-- Color theory
+### 💻 Languages
 
-### 🌱 Goal
-To grow as a creative designer and web developer and get my first internship 💫
+* Python
+* JavaScript
+* 
+* SQL
 
-📫 Email: yuktask15@gmail.com  
+### ⚡ Frameworks & Libraries
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* React.js
+* Node.js
+* Django
+* Tailwind CSS
 
+### 🗄️ Databases
 
+* MongoDB
+* MySQL
+
+### 🔧 Tools & Platforms
+
+* Git & GitHub
+* Cloudinary
+* MongoDB Atlas
+* Figma
+* Canva
+* Postman
+
+## 🌱 Currently Learning
+
+* Generative AI & AI Agents
+* System Design
+* Cloud & DevOps Fundamentals
+
+## 🎯 Goals
+
+* Build impactful AI-powered applications
+* Contribute to open-source projects
+* Continuously improve as a Software Developer and AI Engineer
+* Secure exciting software development opportunities
+
+## 📫 Connect With Me
+
+📧 **Email:** [yuktask15@gmail.com](mailto:yuktask15@gmail.com)
